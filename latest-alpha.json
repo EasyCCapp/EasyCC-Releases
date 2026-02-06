@@ -1,0 +1,19 @@
+{
+  "version": "0.3.0-alpha.6",
+  "notes": "⚠️ **This is an alpha release for testing purposes.** Alpha releases may contain bugs and incomplete features. Please report any issues you encounter.",
+  "pub_date": "2026-02-06T18:36:21Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.3.0-alpha.6/EasyCC_0.3.0-alpha.6_universal.dmg"
+    },
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.3.0-alpha.6/EasyCC_0.3.0-alpha.6_universal.dmg"
+    },
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.3.0-alpha.6/EasyCC_0.3.0-alpha.6_x64-setup.exe"
+    }
+  }
+}
