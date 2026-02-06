@@ -16,4 +16,4 @@ Download the latest version of EasyCC from the [Releases](https://github.com/Eas
 
 EasyCC (Easy Claude Code) is a lightweight desktop app that gives non-technical users the power of Claude Code AI agents without the complexity of IDEs, terminals, or Git.
 
-Learn more at the [main repository](https://github.com/EasyCCapp/EasyCC).
+Learn more at the [EasyCC.app](https://EasyCC.app).
