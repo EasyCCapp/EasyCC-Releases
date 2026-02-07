@@ -6,7 +6,6 @@ This repository hosts release artifacts and update manifests for EasyCC.
 
 - `latest.json` - Stable channel updates
 - `latest-beta.json` - Beta channel updates  
-- `latest-alpha.json` - Alpha channel updates
 
 ## Downloads
 
