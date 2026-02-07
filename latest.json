@@ -1,0 +1,19 @@
+{
+  "version": "0.4.0",
+  "notes": "See the assets below to download and install EasyCC.",
+  "pub_date": "2026-02-07T13:33:03Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFNSdmY5TDFPcEIvbm56bjZ4M1ArdlJvaWc5T1kvWFh3QVRjSDNTNi95SWovMXZybm9xT1dna0NOblp1ZlgrWmxTaHpCcnVDUXYwWWlDVWZYNkplK1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDcwNzAwCWZpbGU6RWFzeUNDLmFwcC50YXIuZ3oKWXpIZXorK28rQWV0T3U3T2FPZHgzUmp1SW5RTlZ1cWFERE83L3pQRWVKNEtrenptY0NUL3pVZE5zM2cxODhleHBTV3hLQzc1eWhIem8ybDRHMDZxQ3c9PQo=",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.4.0/EasyCC.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFNSdmY5TDFPcEIvbm56bjZ4M1ArdlJvaWc5T1kvWFh3QVRjSDNTNi95SWovMXZybm9xT1dna0NOblp1ZlgrWmxTaHpCcnVDUXYwWWlDVWZYNkplK1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDcwNzAwCWZpbGU6RWFzeUNDLmFwcC50YXIuZ3oKWXpIZXorK28rQWV0T3U3T2FPZHgzUmp1SW5RTlZ1cWFERE83L3pQRWVKNEtrenptY0NUL3pVZE5zM2cxODhleHBTV3hLQzc1eWhIem8ybDRHMDZxQ3c9PQo=",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.4.0/EasyCC.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UGY2ZE9BT0tBTUJFMU5ZYUllKzA3SjE1RUlVNVBMdmRFWXZrL1Axalk3eXNuZXVZQ082OFUrQ2d6bnFzR1VpTzV0N1hGbGkrSTdjdmd6UFR6U1BRL1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDcxMDA0CWZpbGU6RWFzeUNDXzAuNC4wX3g2NC1zZXR1cC5leGUKUmhOeEphL1h5SWpvODJYVFc3UUVpNExrd1gzOHR6ZUFRd0I2eGFHSVhiT1d2WWlESG5LTjgzcmlpM2FvaThQQzc5YzlxWTZoYk44VC9DSmd1NEZ4RGc9PQo=",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.4.0/EasyCC_0.4.0_x64-setup.exe"
+    }
+  }
+}
