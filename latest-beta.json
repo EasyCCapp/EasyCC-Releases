@@ -1,19 +1,19 @@
 {
-  "version": "0.7.1-beta.1",
+  "version": "0.7.1-beta.2",
   "notes": "🧪 **This is a beta release for testing purposes.** Beta releases are more stable than alpha but may still contain bugs.",
-  "pub_date": "2026-04-14T02:38:49Z",
+  "pub_date": "2026-04-14T14:59:37Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFltQ3VoM0wrV3N3VzNtajNlMkZ0NER3M01FUE51VzNMWDNWL1U2dkluOG1nRlg1M29Yc0FoaVByaTI2WVcyMllUZjNJNy85aUpBZmVWYTJ0RlNBZEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTMzNjQzCWZpbGU6RWFzeUNDLmFwcC50YXIuZ3oKUHVVNi9xY0pwb2U5WXl4M2hZaklyZ1V1ZTcrK0JRWXdsVHNVY2QwanNCUlJiek9iempkcUNFUVhVTGxEQ0NkZkNZQzcvdjlCRzBDcmpFVDExaGcxRGc9PQo=",
-      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.7.1-beta.1/EasyCC.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFd0VlBMNFBmdVdHOXdWa0ducnFmbi9KVUszZ3RtTU5VVG1UekJkUlAzbWZuQ1JSd2dHN05UTjkySy9USm1jU2p0aG9GRHBZTDBweHdxYzZrVGIzaEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc4NDYzCWZpbGU6RWFzeUNDLmFwcC50YXIuZ3oKNXVJSjJqYXhwWXdoU3ByUFJ0NHI2ZHpnTittWm8zbTM4WnUvMVFsYzM0UkFMbXRpdVRzbjVKVlRSMkhJc1BLbXdSMXpMYmh4c2ZlL21GYk82Y28rQXc9PQo=",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.7.1-beta.2/EasyCC.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFltQ3VoM0wrV3N3VzNtajNlMkZ0NER3M01FUE51VzNMWDNWL1U2dkluOG1nRlg1M29Yc0FoaVByaTI2WVcyMllUZjNJNy85aUpBZmVWYTJ0RlNBZEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTMzNjQzCWZpbGU6RWFzeUNDLmFwcC50YXIuZ3oKUHVVNi9xY0pwb2U5WXl4M2hZaklyZ1V1ZTcrK0JRWXdsVHNVY2QwanNCUlJiek9iempkcUNFUVhVTGxEQ0NkZkNZQzcvdjlCRzBDcmpFVDExaGcxRGc9PQo=",
-      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.7.1-beta.1/EasyCC.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFd0VlBMNFBmdVdHOXdWa0ducnFmbi9KVUszZ3RtTU5VVG1UekJkUlAzbWZuQ1JSd2dHN05UTjkySy9USm1jU2p0aG9GRHBZTDBweHdxYzZrVGIzaEF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc4NDYzCWZpbGU6RWFzeUNDLmFwcC50YXIuZ3oKNXVJSjJqYXhwWXdoU3ByUFJ0NHI2ZHpnTittWm8zbTM4WnUvMVFsYzM0UkFMbXRpdVRzbjVKVlRSMkhJc1BLbXdSMXpMYmh4c2ZlL21GYk82Y28rQXc9PQo=",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.7.1-beta.2/EasyCC.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UGFwUGdXRDZWYnVFQWNnaDVXN1B6aUFoL0dHTUdNdE1zMEU1R2Q5VmVUcHcvMnkxSlQ2eW42djFFK0RkRGl3dXQ1NXh0Vi8zeVpSV3FPK3k2aUhFUXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTMzODg5CWZpbGU6RWFzeUNDXzAuNy4xLWJldGEuMV94NjQtc2V0dXAuZXhlCjN0ZldHVzErVWtTeWxTa1Bna0M2SWM0elFGd014cFB3US8rVmNZWGZTMDdDOFM2T3MyR3JDODc5dUZTMzY5cEN5cFB2VWkyUE9kakw4UHhTK3ZhQUFBPT0K",
-      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.7.1-beta.1/EasyCC_0.7.1-beta.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFY4SGZIV3FNdEdGMkd5OGUrWXJXSUF5dTBCTEN5dEZqbnRFY0p2Sjg5MXhHTzZ6U2IrUXJsV1AxWFZjSVFVcVlXNVR6bmxZNS85WXJWUUhFSnpWbUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTc4MzkxCWZpbGU6RWFzeUNDXzAuNy4xLWJldGEuMl94NjQtc2V0dXAuZXhlClo3aVpsYlllYjk2d0pubS80aGpLN1B3N2N0RitaM3ErTWFLai9vZjNibEZ4VmUxYWd6Qng5RWdKQjM2aG9Zbi9GSSsxZWZHYkRLRUxHbVorTU1Kd0NBPT0K",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.7.1-beta.2/EasyCC_0.7.1-beta.2_x64-setup.exe"
     }
   }
 }
