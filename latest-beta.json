@@ -1,11 +1,11 @@
 {
-  "version": "0.8.5-beta.1",
+  "version": "0.8.5-beta.2",
   "notes": "🧪 **This is a beta release for testing purposes.** Beta releases are more stable than alpha but may still contain bugs.",
-  "pub_date": "2026-06-26T21:26:40Z",
+  "pub_date": "2026-06-26T23:47:01Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UGZpN0YrRjFQVFBZblhKczU1cnJqcEw5aUFtS25zN0I4RnJJK01ncDBXd3l5WmFDaFRkTkY5SExOeUhyK3k3c24yVmhTS1Foc3hlR1RGdE1vTXJ1MkE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTA5MDIzCWZpbGU6RWFzeUNDXzAuOC41LWJldGEuMV94NjQtc2V0dXAuZXhlClI4RXB2bW1JVTZYa2ZkK010YkZVeC9LcCsvQjNwWHVKL2FJVmVXNWJBbWJtYzEyWDBOL3Rwa0Rwc2FXbnpBaFFQQUtwaHUyUFlMSG9CTTBEMTJKbURBPT0K",
-      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.8.5-beta.1/EasyCC_0.8.5-beta.1_x64-full-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOGhwYytFMDZ6UFhWc0VkVHVXK1ROWDlFWHg2WWcvQ2U2ZktLRG5obEJZWDEzRTg3RDlRdXpCQis3bm1URllYa0M2WlBXR1FYeGFVWjc3U0xicnZNT1dpaEZjQWdMR0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyNTE3NDM2CWZpbGU6RWFzeUNDXzAuOC41LWJldGEuMl94NjQtc2V0dXAuZXhlClRFN0F0REZHL0lldFZSQ05jV3FKeFNpTk44Wmh2b3p4KzNkTHpCQjdCdDVLOFBObmVYR1JPcFNkc0ZZVGJnRnhndGRJcEVoQ0J1U0R2U05iTVZwK0JBPT0K",
+      "url": "https://github.com/EasyCCapp/EasyCC-Releases/releases/download/v0.8.5-beta.2/EasyCC_0.8.5-beta.2_x64-full-setup.exe"
     }
   }
 }
